@@ -1,0 +1,156 @@
+@media only screen and (min-width:768px) {
+    body {
+      padding: 0%;
+      margin: 0%;
+      box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+.div-aside {
+    display: none;
+}
+
+    .li a:hover {
+        width: 602px;
+    }
+
+  #check {
+      transform: translate(273px);
+      display: none;
+  }
+
+  .bars {
+      display: block;
+      transform: translate(-17px, -37px);
+  }
+
+  .navbar-responsive {
+      display: none;
+  }
+
+  .ul {
+      top: 52px;
+      height: 100vh;
+      width: 80%;
+      position: fixed;
+      background-color: rgb(75, 61, 204);
+      left: -100%;
+      transition: .4s ease-in-out;
+  }
+
+  .li a {
+      text-decoration: none;
+      color: #fff;
+      display: block;
+      width: 587px;
+      padding: 14px;
+  }
+
+  .sub-ul {
+      display: none;
+      background-color: rgb(43, 40, 124);
+      }
+
+  .uno {
+      display: none;
+  }
+
+  .dos {
+      display: none;
+  }
+
+  .tres {
+      display: none;
+  }
+
+  .cuatro {
+      display: none;
+  }
+
+  .quinto {
+      display: none;
+  }
+
+  .sexto {
+      display: none;
+  }
+
+  .septima {
+      display: none;
+  }
+  
+  .octava {
+      display: none;
+  }
+  
+  .novena {
+      display: none;
+  }
+  
+  .decima {
+      display: none;
+  }
+  
+  .onceaba {
+      display: none;
+  }
+  
+  .doceaba {
+      display: none;
+  }
+  
+  .treceaba {
+      display: none;
+  }
+  
+  .catorceaba {
+      display: none;
+  }
+  
+  .quinceaba {
+      display: none;
+  }
+  
+  .dieciseisaba {
+      display: none;
+  }
+  
+  .diecisieteaba {
+      display: none;
+  }
+  
+  .dieciocho {
+      display: none;
+  }
+  
+  .diecinueve {
+      display: none;
+  }
+
+  .veinte {
+      display: none;
+  }
+  
+  .galery {
+      display: none;
+  }
+
+  .article-2 {
+      display: none;
+  }
+
+  .article-3 {
+      display: none;
+  }
+
+  .logo {
+      margin-top: 4px;
+      padding: 14px;
+      margin-left: 27px;
+  }
+
+  .li a {
+      width: 583px;
+  }
+
+}
