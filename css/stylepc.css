@@ -144,4 +144,171 @@
         list-style: none;
     }
 
+    .uno {
+    display: block;
+    margin: 0% auto;
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+}
+
+.dos {
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+  }
+
+.tres {
+    padding-bottom: 12px;
+    height: 172px;
+    width: 243px;
+    display: block;
+    margin: 0% auto;
+  }
+
+.cuatro {
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+  }
+
+.quinto {
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+  }
+
+.sexto {
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.septima {
+    padding-bottom: 12px;
+    width: 243px;
+    height: 172px;
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.octava {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.novena {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.decima {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.onceaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+    display: block;
+    margin: 0% auto;
+}
+
+.doceaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.treceaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.catorceaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.quinceaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.dieciseisaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.diecisieteaba {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.dieciocho {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.diecinueve {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+.veinte {
+    padding-bottom: 12px;
+    width: 263px;
+    height: 172px;
+        display: block;
+    margin: 0% auto;
+}
+
+
 }
